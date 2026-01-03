@@ -80,4 +80,4 @@
 
 ## 第九次活动 - ???
 
-正在热烈筹备中！欢迎进入 [Telegram 公开群组](https://t.me/QwQ_NT)获取第一信息！
+正在热烈举办中！欢迎进入 [Telegram 公开群组](https://t.me/QwQ_NT)参与！
