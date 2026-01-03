@@ -24,11 +24,16 @@
 
 原文件过大，请下载所有压缩分卷：[bin4.zip](/bin4.zip)、[bin4.z01](/bin4.z01)。
 
-## 第五次活动 - puzzle
+## 第五次活动 - Puzzle
 
 点击下方链接下载文件以回顾活动。
 
 [Puzzle.zip](/Puzzle.zip)
+
+> [!TIP]
+> 同时Puzzle也是开源的，下载源码：[Puzzle_src.zip](/Puzzle_src.zip)
+>
+> 使用MIT许可证。
 
 ## 第六次活动 - 「The Framework」
 
@@ -51,6 +56,28 @@
 >
 > ![提示 6](/img/event-6-tips.jpg)
 
-## 第七次活动 - ???
+## 第七次活动 - Her.
+
+观察图片以回顾活动。
+
+![看上去很可疑的头像](/img/event-7.png)
+
+## 第八次活动 - Mov?Hajimi
+
+点击下方链接下载文件以回顾活动。
+
+[hajimi.zip](/hajimi.zip)
+
+> [!TIP]
+> 第八期提示 ：
+>
+> ```c
+> // in unistd.h
+> extern void ????? (int __status) __attribute__ ((__noreturn__));
+> ```
+>
+> 此文件解出后会得到`flag{fuCk_thE_m0vFu5Cat0R}`而非群组链接。
+
+## 第九次活动 - ???
 
 正在热烈筹备中！欢迎进入 [Telegram 公开群组](https://t.me/QwQ_NT)获取第一信息！
