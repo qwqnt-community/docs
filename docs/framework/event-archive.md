@@ -16,7 +16,7 @@
 
 ## 第三次活动 - QwQNT 高考
 
-请前往[该网站](https://qwqnt.adproqwq.top/)参与。
+请前往[该网站](https://qwqnt.adproqwq.top/)回顾。
 
 ## 第四次活动 - Event4.
 
@@ -78,6 +78,10 @@
 >
 > 此文件解出后会得到`flag{fuCk_thE_m0vFu5Cat0R}`而非群组链接。
 
-## 第九次活动 - ???
+## 第九次活动 - ⑨
 
-正在热烈举办中！欢迎进入 [Telegram 公开群组](https://t.me/QwQ_NT)参与！
+请前往[该网站](https://3.qwqnt.ailoli.one/)回顾。
+
+## 第十次活动 - ?
+
+正在热烈筹备中！欢迎加入 [Telegram 公开群组](https://t.me/QwQ_NT)！
