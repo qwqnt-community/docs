@@ -39,6 +39,7 @@ export default defineConfig({
         items: [
           { text: '开发规范', link: '/development/development-standards' },
           { text: '构建环境', link: '/development/setup-environment' },
+          { text: '迈出第一步', link: '/development/first-step' },
         ],
       },
     ],
