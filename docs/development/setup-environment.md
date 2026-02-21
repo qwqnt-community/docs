@@ -140,13 +140,13 @@ pnpm add github:qwqnt-community/types -D
 
 ### 依赖
 
-我们推荐使用 electron-vite 包进行插件的编译工作。
+这里使用 electron-vite 包进行插件的编译工作。
 
 具体请参照[官方文档](https://electron-vite.github.io/)进行对应配置。
 
-对于打包工作，我们推荐使用 unplugin-zip-pack 包。
+对于打包工作，这里使用 unplugin-zip-pack 包。
 
-我们假设你使用 electron.vite.config.ts 配置 electron-vite 。
+我们假设你使用 electron.vite.config.ts 配置 electron-vite。
 
 使用 unplugin-zip-pack 插件需要完成下列工作。
 
