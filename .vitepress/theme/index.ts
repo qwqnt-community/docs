@@ -1,9 +1,9 @@
-import type { Theme } from 'vitepress';
-import DefaultTheme from 'vitepress/theme';
 import '@catppuccin/vitepress/theme/mocha/teal.css';
-import { InjectionKey, NolebaseGitChangelogPlugin } from '@nolebase/vitepress-plugin-git-changelog/client';
 import '@nolebase/vitepress-plugin-git-changelog/client/style.css';
 import 'virtual:group-icons.css';
+import DefaultTheme from 'vitepress/theme';
+import { InjectionKey, NolebaseGitChangelogPlugin } from '@nolebase/vitepress-plugin-git-changelog/client';
+import type { Theme } from 'vitepress';
 
 export default {
   extends: DefaultTheme,
