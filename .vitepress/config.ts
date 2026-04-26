@@ -12,7 +12,7 @@ export default defineConfig({
 
   lang: 'zh-CN',
   title: 'QwQNT',
-  description: 'QwQNT 社区驱动文档',
+  description: 'QwQNT 社区文档',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
