@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "QwQNT"
-  text: "QwQNT 社区驱动文档"
+  text: "QwQNT 社区文档"
   tagline: 全新 · 安全 · 活跃
   actions:
     - theme: brand
