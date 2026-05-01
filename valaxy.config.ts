@@ -40,7 +40,7 @@ export default defineValaxyConfig({
     },
   },
   vite: {
-    base: '/',
+    base: '/docs/',
   },
   math: true,
   markdown: {

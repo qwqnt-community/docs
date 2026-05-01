@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import valaxyLogoPng from '../public/valaxy-logo.png';
+import valaxyLogoPng from '../assets/valaxy-logo.png';
 </script>
 
 <template>
