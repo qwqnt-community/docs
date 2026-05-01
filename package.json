@@ -1,23 +1,27 @@
 {
-  "name": "docs",
-  "private": true,
-  "version": "1.0.0",
+  "name": "qwqnt-docs",
+  "version": "0.0.0",
   "description": "Docs site for QwQNT",
+  "private": true,
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "build": "npm run build:ssg",
+    "build:spa": "valaxy build",
+    "build:ssg": "valaxy build --ssg",
+    "dev": "valaxy",
+    "rss": "valaxy rss",
+    "serve": "vite preview"
   },
   "author": "風間青祢",
   "license": "MIT",
   "packageManager": "pnpm@10.33.2",
+  "dependencies": {
+    "markdown-it-mathjax3": "^5.2.0",
+    "valaxy": "0.28.6",
+    "valaxy-addon-git-log": "^0.4.2",
+    "valaxy-theme-press": "^0.28.6"
+  },
   "devDependencies": {
-    "@catppuccin/vitepress": "^0.1.2",
-    "@nolebase/vitepress-plugin-git-changelog": "^2.18.2",
-    "@types/node": "^25.6.0",
-    "vitepress": "2.0.0-alpha.17",
-    "vitepress-plugin-group-icons": "^1.7.5"
+    "typescript": "^6.0.3"
   }
 }
