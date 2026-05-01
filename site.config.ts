@@ -20,4 +20,7 @@ export default defineSiteConfig({
     enable: true,
   },
   lastUpdated: true,
+  llms: {
+    enable: true,
+  },
 });
