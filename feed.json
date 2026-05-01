@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "QwQNT",
+    "home_page_url": "https://qwqnt-community.github.io/docs/",
+    "feed_url": "https://qwqnt-community.github.io/docs/feed.json",
+    "description": "QwQNT 社区文档",
+    "icon": "https://valaxy.site/valaxy-logo.png",
+    "author": {
+        "name": "VALAXY Developer",
+        "url": "https://valaxy.site"
+    },
+    "items": []
+}

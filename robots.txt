@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qwqnt-community.github.io/docs/sitemap.xml

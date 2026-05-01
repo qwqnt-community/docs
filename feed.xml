@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>QwQNT</title>
+        <link>https://qwqnt-community.github.io/docs/</link>
+        <description>QwQNT 社区文档</description>
+        <lastBuildDate>Fri, 01 May 2026 05:52:51 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>QwQNT</title>
+            <url>https://valaxy.site/valaxy-logo.png</url>
+            <link>https://qwqnt-community.github.io/docs/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2026 © VALAXY Developer</copyright>
+        <atom:link href="https://qwqnt-community.github.io/docs/feed.xml" rel="self" type="application/rss+xml"/>
+    </channel>
+</rss>
