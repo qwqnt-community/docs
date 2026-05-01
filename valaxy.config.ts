@@ -1,10 +1,10 @@
+import type { PressTheme } from 'valaxy-theme-press';
 import { defineValaxyConfig } from 'valaxy';
 import { addonGitLog } from 'valaxy-addon-git-log';
 
-export default defineValaxyConfig({
+export default defineValaxyConfig<PressTheme.Config>({
   theme: 'press',
   themeConfig: {
-    logo: '/valaxy-logo.png',
     socialLinks: [
       { icon: 'i-ri-github-line', link: 'https://github.com/qwqnt-community/' },
     ],
@@ -37,6 +37,12 @@ export default defineValaxyConfig({
     ],
     footer: {
       message: 'QwQNT Community | Powered by <a href="https://valaxy.site">Valaxy</a>',
+    },
+    editLink: {
+      pattern: 'https://github.com/qwqnt-community/docs/edit/main/:path',
+    },
+    colors: {
+      primary: '#39C5BB',
     },
   },
   vite: {

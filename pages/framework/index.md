@@ -18,10 +18,10 @@ QwQNT 框架即用即插。
 
 以上是对 QwQNT 框架的简略介绍。
 
-如果你想了解 QwQNT 的开源策略，请见[开源策略](/framework/open-source)。
+如果你想了解 QwQNT 的开源策略，请见[开源策略](./open-source)。
 
-如果你想知道如何获取框架，请见[获取框架](/framework/get-framework)。
+如果你想知道如何获取框架，请见[获取框架](./get-framework)。
 
-如果你想知道如何反馈问题，请见[反馈问题](/framework/feedback)。
+如果你想知道如何反馈问题，请见[反馈问题](./feedback)。
 
-如果你想了解如何在 QwQNT 框架内使用 LiteLoaderQQNT 插件，请见 [LiteLoaderQQNT 兼容](/framework/adapt-liteloaderqqnt)。
+如果你想了解如何在 QwQNT 框架内使用 LiteLoaderQQNT 插件，请见 [LiteLoaderQQNT 兼容](./adapt-liteloaderqqnt)。

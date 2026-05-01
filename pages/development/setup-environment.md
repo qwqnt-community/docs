@@ -46,7 +46,7 @@ QwQNT 框架并未提供官方实现的插件模板。
 
 :::
 
-然后请按照[开发规范](/development/development-standards)填写好 name 等字段，这里不做赘述。
+然后请按照[开发规范](./development-standards)填写好 name 等字段，这里不做赘述。
 
 比较重要的是，虽然 QwQNT 框架允许加载 esm ，但是我们仍然建议打包为 cjs 。
 

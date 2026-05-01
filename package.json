@@ -22,6 +22,7 @@
     "valaxy-theme-press": "^0.28.6"
   },
   "devDependencies": {
+    "@iconify-json/carbon": "^1.2.20",
     "typescript": "^6.0.3"
   }
 }
