@@ -47,6 +47,9 @@ export default defineValaxyConfig<PressTheme.Config>({
   },
   vite: {
     base: '/docs/',
+    define: {
+      __VUE_PROD_HYDRATION_MISMATCH_DETAILS__: true,
+    },
   },
   math: true,
   markdown: {
