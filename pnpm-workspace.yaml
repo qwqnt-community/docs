@@ -1,0 +1,2 @@
+patchedDependencies:
+  valaxy-addon-git-log@0.4.2: patches/valaxy-addon-git-log@0.4.2.patch
