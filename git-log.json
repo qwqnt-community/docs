@@ -10,7 +10,16 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [],
+    "changeLog": [
+      {
+        "hash": "bfc729830d9e4c7716d2f1fcf7921a5fb5c1cb7b",
+        "date": "2026-05-02T14:00:26+08:00",
+        "message": "fix: git-log addon upstream problem which causes fetch failed|",
+        "refs": "",
+        "author_name": "風間青祢",
+        "author_email": "101449500+adproqwq@users.noreply.github.com"
+      }
+    ],
     "path": "pages/404.md"
   },
   "pages/index.md": {
@@ -24,7 +33,16 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [],
+    "changeLog": [
+      {
+        "hash": "bfc729830d9e4c7716d2f1fcf7921a5fb5c1cb7b",
+        "date": "2026-05-02T14:00:26+08:00",
+        "message": "fix: git-log addon upstream problem which causes fetch failed|",
+        "refs": "",
+        "author_name": "風間青祢",
+        "author_email": "101449500+adproqwq@users.noreply.github.com"
+      }
+    ],
     "path": "pages/index.md"
   },
   "pages/development/development-standards.md": {
@@ -38,7 +56,16 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [],
+    "changeLog": [
+      {
+        "hash": "bfc729830d9e4c7716d2f1fcf7921a5fb5c1cb7b",
+        "date": "2026-05-02T14:00:26+08:00",
+        "message": "fix: git-log addon upstream problem which causes fetch failed|",
+        "refs": "",
+        "author_name": "風間青祢",
+        "author_email": "101449500+adproqwq@users.noreply.github.com"
+      }
+    ],
     "path": "pages/development/development-standards.md"
   },
   "pages/development/first-step.md": {
@@ -52,7 +79,16 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [],
+    "changeLog": [
+      {
+        "hash": "bfc729830d9e4c7716d2f1fcf7921a5fb5c1cb7b",
+        "date": "2026-05-02T14:00:26+08:00",
+        "message": "fix: git-log addon upstream problem which causes fetch failed|",
+        "refs": "",
+        "author_name": "風間青祢",
+        "author_email": "101449500+adproqwq@users.noreply.github.com"
+      }
+    ],
     "path": "pages/development/first-step.md"
   },
   "pages/development/index.md": {
@@ -66,7 +102,16 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [],
+    "changeLog": [
+      {
+        "hash": "bfc729830d9e4c7716d2f1fcf7921a5fb5c1cb7b",
+        "date": "2026-05-02T14:00:26+08:00",
+        "message": "fix: git-log addon upstream problem which causes fetch failed|",
+        "refs": "",
+        "author_name": "風間青祢",
+        "author_email": "101449500+adproqwq@users.noreply.github.com"
+      }
+    ],
     "path": "pages/development/index.md"
   },
   "pages/development/setup-environment.md": {
@@ -80,7 +125,16 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [],
+    "changeLog": [
+      {
+        "hash": "bfc729830d9e4c7716d2f1fcf7921a5fb5c1cb7b",
+        "date": "2026-05-02T14:00:26+08:00",
+        "message": "fix: git-log addon upstream problem which causes fetch failed|",
+        "refs": "",
+        "author_name": "風間青祢",
+        "author_email": "101449500+adproqwq@users.noreply.github.com"
+      }
+    ],
     "path": "pages/development/setup-environment.md"
   },
   "pages/framework/adapt-liteloaderqqnt.md": {
@@ -94,7 +148,16 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [],
+    "changeLog": [
+      {
+        "hash": "bfc729830d9e4c7716d2f1fcf7921a5fb5c1cb7b",
+        "date": "2026-05-02T14:00:26+08:00",
+        "message": "fix: git-log addon upstream problem which causes fetch failed|",
+        "refs": "",
+        "author_name": "風間青祢",
+        "author_email": "101449500+adproqwq@users.noreply.github.com"
+      }
+    ],
     "path": "pages/framework/adapt-liteloaderqqnt.md"
   },
   "pages/framework/event-archive.md": {
@@ -108,7 +171,16 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [],
+    "changeLog": [
+      {
+        "hash": "bfc729830d9e4c7716d2f1fcf7921a5fb5c1cb7b",
+        "date": "2026-05-02T14:00:26+08:00",
+        "message": "fix: git-log addon upstream problem which causes fetch failed|",
+        "refs": "",
+        "author_name": "風間青祢",
+        "author_email": "101449500+adproqwq@users.noreply.github.com"
+      }
+    ],
     "path": "pages/framework/event-archive.md"
   },
   "pages/framework/feedback.md": {
@@ -122,7 +194,16 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [],
+    "changeLog": [
+      {
+        "hash": "bfc729830d9e4c7716d2f1fcf7921a5fb5c1cb7b",
+        "date": "2026-05-02T14:00:26+08:00",
+        "message": "fix: git-log addon upstream problem which causes fetch failed|",
+        "refs": "",
+        "author_name": "風間青祢",
+        "author_email": "101449500+adproqwq@users.noreply.github.com"
+      }
+    ],
     "path": "pages/framework/feedback.md"
   },
   "pages/framework/get-framework.md": {
@@ -136,7 +217,16 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [],
+    "changeLog": [
+      {
+        "hash": "bfc729830d9e4c7716d2f1fcf7921a5fb5c1cb7b",
+        "date": "2026-05-02T14:00:26+08:00",
+        "message": "fix: git-log addon upstream problem which causes fetch failed|",
+        "refs": "",
+        "author_name": "風間青祢",
+        "author_email": "101449500+adproqwq@users.noreply.github.com"
+      }
+    ],
     "path": "pages/framework/get-framework.md"
   },
   "pages/framework/index.md": {
@@ -150,7 +240,16 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [],
+    "changeLog": [
+      {
+        "hash": "bfc729830d9e4c7716d2f1fcf7921a5fb5c1cb7b",
+        "date": "2026-05-02T14:00:26+08:00",
+        "message": "fix: git-log addon upstream problem which causes fetch failed|",
+        "refs": "",
+        "author_name": "風間青祢",
+        "author_email": "101449500+adproqwq@users.noreply.github.com"
+      }
+    ],
     "path": "pages/framework/index.md"
   },
   "pages/framework/open-source.md": {
@@ -164,7 +263,16 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [],
+    "changeLog": [
+      {
+        "hash": "bfc729830d9e4c7716d2f1fcf7921a5fb5c1cb7b",
+        "date": "2026-05-02T14:00:26+08:00",
+        "message": "fix: git-log addon upstream problem which causes fetch failed|",
+        "refs": "",
+        "author_name": "風間青祢",
+        "author_email": "101449500+adproqwq@users.noreply.github.com"
+      }
+    ],
     "path": "pages/framework/open-source.md"
   }
 }
