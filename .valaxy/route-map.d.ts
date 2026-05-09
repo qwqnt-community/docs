@@ -147,13 +147,13 @@ declare module 'vue-router/auto-routes' {
       views:
         | never
     }
-    'node_modules/.pnpm/valaxy-theme-press@0.28.6_@_565d47f8b054711955fd778c51d0ab3b/node_modules/valaxy-theme-press/pages/[...all].vue': {
+    'node_modules/.pnpm/valaxy-theme-press@0.28.7_@_43b34fe1bbf0541d26cffafdaa855719/node_modules/valaxy-theme-press/pages/[...all].vue': {
       routes:
         | '/[...all]'
       views:
         | never
     }
-    'node_modules/.pnpm/valaxy@0.28.6_@babel+parser_9846662c3b7207da3c462ed8489bbdfd/node_modules/valaxy/client/pages/[...path].vue': {
+    'node_modules/.pnpm/valaxy@0.28.7_@babel+parser_3263ebc75ca360fa514df48c3ab2a24d/node_modules/valaxy/client/pages/[...path].vue': {
       routes:
         | '/[...path]'
       views:

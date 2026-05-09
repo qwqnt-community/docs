@@ -1,7 +1,6 @@
 import type { PressTheme } from 'valaxy-theme-press';
 import { defineValaxyConfig } from 'valaxy';
 import { addonGitLog } from 'valaxy-addon-git-log';
-import { addonComponents } from 'valaxy-addon-components';
 
 export default defineValaxyConfig<PressTheme.Config>({
   theme: 'press',
@@ -86,7 +85,6 @@ export default defineValaxyConfig<PressTheme.Config>({
   },
 
   addons: [
-    addonComponents(),
     addonGitLog({
       repositoryUrl: 'https://github.com/qwqnt-community/docs.git',
       contributor: {
