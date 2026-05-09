@@ -1,0 +1,1 @@
+import{V as e}from"./theme.CMvLVhP3.js";var t=e({defaults:{"@type":`AggregateRating`}});export{t as aggregateRatingResolver};
