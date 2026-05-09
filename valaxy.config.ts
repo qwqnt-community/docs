@@ -7,6 +7,8 @@ export default defineValaxyConfig<PressTheme.Config>({
   themeConfig: {
     socialLinks: [
       { icon: 'i-ri-github-line', link: 'https://github.com/qwqnt-community/' },
+      { icon: 'i-ri-telegram-line', link: 'https://t.me/QwQ_NT' },
+      { icon: 'i-ri-qq-line', link: 'https://qm.qq.com/cgi-bin/qm/qr?k=_RcOE3HlBi7M4tGMiypYgQaX1iVOFpeC' },
     ],
     nav: [
       { text: '主页', link: '/' },
@@ -36,7 +38,8 @@ export default defineValaxyConfig<PressTheme.Config>({
       },
     ],
     footer: {
-      message: 'QwQNT Community | Powered by <a href="https://valaxy.site">Valaxy</a>',
+      message: 'Powered by <a href="https://valaxy.site">Valaxy</a>',
+      copyright: 'QwQNT Community All Rights Reserved',
     },
     editLink: {
       pattern: 'https://github.com/qwqnt-community/docs/edit/main/:path',
@@ -47,9 +50,6 @@ export default defineValaxyConfig<PressTheme.Config>({
   },
   vite: {
     base: '/docs/',
-    define: {
-      __VUE_PROD_HYDRATION_MISMATCH_DETAILS__: true,
-    },
   },
   math: true,
   markdown: {
