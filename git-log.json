@@ -10,16 +10,7 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [
-      {
-        "hash": "76cfd1624cd9bda6f0111a5ef92e630496498fb5",
-        "date": "2026-05-09T21:03:52+08:00",
-        "message": "feat: add social icons & copyright",
-        "refs": "",
-        "author_name": "風間青祢",
-        "author_email": "101449500+adproqwq@users.noreply.github.com"
-      }
-    ],
+    "changeLog": [],
     "path": "pages/404.md"
   },
   "pages/index.md": {
@@ -33,16 +24,7 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [
-      {
-        "hash": "76cfd1624cd9bda6f0111a5ef92e630496498fb5",
-        "date": "2026-05-09T21:03:52+08:00",
-        "message": "feat: add social icons & copyright",
-        "refs": "",
-        "author_name": "風間青祢",
-        "author_email": "101449500+adproqwq@users.noreply.github.com"
-      }
-    ],
+    "changeLog": [],
     "path": "pages/index.md"
   },
   "pages/development/development-standards.md": {
@@ -56,16 +38,7 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [
-      {
-        "hash": "76cfd1624cd9bda6f0111a5ef92e630496498fb5",
-        "date": "2026-05-09T21:03:52+08:00",
-        "message": "feat: add social icons & copyright",
-        "refs": "",
-        "author_name": "風間青祢",
-        "author_email": "101449500+adproqwq@users.noreply.github.com"
-      }
-    ],
+    "changeLog": [],
     "path": "pages/development/development-standards.md"
   },
   "pages/development/first-step.md": {
@@ -79,16 +52,7 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [
-      {
-        "hash": "76cfd1624cd9bda6f0111a5ef92e630496498fb5",
-        "date": "2026-05-09T21:03:52+08:00",
-        "message": "feat: add social icons & copyright",
-        "refs": "",
-        "author_name": "風間青祢",
-        "author_email": "101449500+adproqwq@users.noreply.github.com"
-      }
-    ],
+    "changeLog": [],
     "path": "pages/development/first-step.md"
   },
   "pages/development/index.md": {
@@ -102,16 +66,7 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [
-      {
-        "hash": "76cfd1624cd9bda6f0111a5ef92e630496498fb5",
-        "date": "2026-05-09T21:03:52+08:00",
-        "message": "feat: add social icons & copyright",
-        "refs": "",
-        "author_name": "風間青祢",
-        "author_email": "101449500+adproqwq@users.noreply.github.com"
-      }
-    ],
+    "changeLog": [],
     "path": "pages/development/index.md"
   },
   "pages/development/setup-environment.md": {
@@ -125,16 +80,7 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [
-      {
-        "hash": "76cfd1624cd9bda6f0111a5ef92e630496498fb5",
-        "date": "2026-05-09T21:03:52+08:00",
-        "message": "feat: add social icons & copyright",
-        "refs": "",
-        "author_name": "風間青祢",
-        "author_email": "101449500+adproqwq@users.noreply.github.com"
-      }
-    ],
+    "changeLog": [],
     "path": "pages/development/setup-environment.md"
   },
   "pages/framework/adapt-liteloaderqqnt.md": {
@@ -148,16 +94,7 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [
-      {
-        "hash": "76cfd1624cd9bda6f0111a5ef92e630496498fb5",
-        "date": "2026-05-09T21:03:52+08:00",
-        "message": "feat: add social icons & copyright",
-        "refs": "",
-        "author_name": "風間青祢",
-        "author_email": "101449500+adproqwq@users.noreply.github.com"
-      }
-    ],
+    "changeLog": [],
     "path": "pages/framework/adapt-liteloaderqqnt.md"
   },
   "pages/framework/event-archive.md": {
@@ -171,16 +108,7 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [
-      {
-        "hash": "76cfd1624cd9bda6f0111a5ef92e630496498fb5",
-        "date": "2026-05-09T21:03:52+08:00",
-        "message": "feat: add social icons & copyright",
-        "refs": "",
-        "author_name": "風間青祢",
-        "author_email": "101449500+adproqwq@users.noreply.github.com"
-      }
-    ],
+    "changeLog": [],
     "path": "pages/framework/event-archive.md"
   },
   "pages/framework/feedback.md": {
@@ -194,16 +122,7 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [
-      {
-        "hash": "76cfd1624cd9bda6f0111a5ef92e630496498fb5",
-        "date": "2026-05-09T21:03:52+08:00",
-        "message": "feat: add social icons & copyright",
-        "refs": "",
-        "author_name": "風間青祢",
-        "author_email": "101449500+adproqwq@users.noreply.github.com"
-      }
-    ],
+    "changeLog": [],
     "path": "pages/framework/feedback.md"
   },
   "pages/framework/get-framework.md": {
@@ -217,16 +136,7 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [
-      {
-        "hash": "76cfd1624cd9bda6f0111a5ef92e630496498fb5",
-        "date": "2026-05-09T21:03:52+08:00",
-        "message": "feat: add social icons & copyright",
-        "refs": "",
-        "author_name": "風間青祢",
-        "author_email": "101449500+adproqwq@users.noreply.github.com"
-      }
-    ],
+    "changeLog": [],
     "path": "pages/framework/get-framework.md"
   },
   "pages/framework/index.md": {
@@ -240,16 +150,7 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [
-      {
-        "hash": "76cfd1624cd9bda6f0111a5ef92e630496498fb5",
-        "date": "2026-05-09T21:03:52+08:00",
-        "message": "feat: add social icons & copyright",
-        "refs": "",
-        "author_name": "風間青祢",
-        "author_email": "101449500+adproqwq@users.noreply.github.com"
-      }
-    ],
+    "changeLog": [],
     "path": "pages/framework/index.md"
   },
   "pages/framework/open-source.md": {
@@ -263,16 +164,7 @@
         "hash": "b09ad35a18e61c6a93ce57ccb46e0f28"
       }
     ],
-    "changeLog": [
-      {
-        "hash": "76cfd1624cd9bda6f0111a5ef92e630496498fb5",
-        "date": "2026-05-09T21:03:52+08:00",
-        "message": "feat: add social icons & copyright",
-        "refs": "",
-        "author_name": "風間青祢",
-        "author_email": "101449500+adproqwq@users.noreply.github.com"
-      }
-    ],
+    "changeLog": [],
     "path": "pages/framework/open-source.md"
   }
 }
