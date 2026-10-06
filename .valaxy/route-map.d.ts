@@ -20,8 +20,9 @@ import type {
 
 declare module 'vue-router' {
   interface TypesConfig {
-    ParamParsers:
-      | never
+    _ParamParsers: {}
+    RouteNamedMap: import('vue-router/auto-routes').RouteNamedMap
+    _RouteFileInfoMap: import('vue-router/auto-routes')._RouteFileInfoMap
   }
 }
 
@@ -146,23 +147,31 @@ declare module 'vue-router/auto-routes' {
         | '/'
       views:
         | never
+      pathParamNames:
+        | never
     }
-    'node_modules/.pnpm/valaxy-theme-press@0.28.7_@_43b34fe1bbf0541d26cffafdaa855719/node_modules/valaxy-theme-press/pages/[...all].vue': {
+    'node_modules/.pnpm/valaxy-theme-press@1.1.0_vue@3.5.43_typescript@7.0.2_/node_modules/valaxy-theme-press/pages/[...all].vue': {
       routes:
         | '/[...all]'
       views:
         | never
+      pathParamNames:
+        | 'all'
     }
-    'node_modules/.pnpm/valaxy@0.28.7_@babel+parser_3263ebc75ca360fa514df48c3ab2a24d/node_modules/valaxy/client/pages/[...path].vue': {
+    'node_modules/.pnpm/valaxy@1.1.0_@devframes+age_eda448f33cc96cd27ac84aa6203ef873/node_modules/valaxy/client/pages/[...path].vue': {
       routes:
         | '/[...path]'
       views:
         | never
+      pathParamNames:
+        | 'path'
     }
     'pages/404.md': {
       routes:
         | '/404'
       views:
+        | never
+      pathParamNames:
         | never
     }
     'pages/development/index.md': {
@@ -170,11 +179,15 @@ declare module 'vue-router/auto-routes' {
         | '/development/'
       views:
         | never
+      pathParamNames:
+        | never
     }
     'pages/development/development-standards.md': {
       routes:
         | '/development/development-standards'
       views:
+        | never
+      pathParamNames:
         | never
     }
     'pages/development/first-step.md': {
@@ -182,11 +195,15 @@ declare module 'vue-router/auto-routes' {
         | '/development/first-step'
       views:
         | never
+      pathParamNames:
+        | never
     }
     'pages/development/setup-environment.md': {
       routes:
         | '/development/setup-environment'
       views:
+        | never
+      pathParamNames:
         | never
     }
     'pages/framework/index.md': {
@@ -194,11 +211,15 @@ declare module 'vue-router/auto-routes' {
         | '/framework/'
       views:
         | never
+      pathParamNames:
+        | never
     }
     'pages/framework/adapt-liteloaderqqnt.md': {
       routes:
         | '/framework/adapt-liteloaderqqnt'
       views:
+        | never
+      pathParamNames:
         | never
     }
     'pages/framework/event-archive.md': {
@@ -206,11 +227,15 @@ declare module 'vue-router/auto-routes' {
         | '/framework/event-archive'
       views:
         | never
+      pathParamNames:
+        | never
     }
     'pages/framework/feedback.md': {
       routes:
         | '/framework/feedback'
       views:
+        | never
+      pathParamNames:
         | never
     }
     'pages/framework/get-framework.md': {
@@ -218,11 +243,15 @@ declare module 'vue-router/auto-routes' {
         | '/framework/get-framework'
       views:
         | never
+      pathParamNames:
+        | never
     }
     'pages/framework/open-source.md': {
       routes:
         | '/framework/open-source'
       views:
+        | never
+      pathParamNames:
         | never
     }
   }
