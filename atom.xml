@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qwqnt-community.github.io/docs/</id>
     <title>QwQNT</title>
-    <updated>2026-06-06T10:50:51.810Z</updated>
+    <updated>2026-10-06T15:53:43.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>VALAXY Developer</name>
         <email>i@valaxy.site</email>
-        <uri>https://valaxy.site</uri>
+        <uri>https://valaxy.site/</uri>
     </author>
     <link rel="alternate" href="https://qwqnt-community.github.io/docs/"/>
     <link rel="self" href="https://qwqnt-community.github.io/docs/atom.xml"/>
