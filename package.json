@@ -14,15 +14,15 @@
   },
   "author": "風間青祢",
   "license": "MIT",
-  "packageManager": "pnpm@11.5.2",
+  "packageManager": "pnpm@12.9.1",
   "dependencies": {
     "markdown-it-mathjax3": "^5.2.0",
-    "valaxy": "0.28.10",
-    "valaxy-addon-git-log": "^0.5.0",
-    "valaxy-theme-press": "^0.28.10"
+    "valaxy": "1.1.0",
+    "valaxy-addon-git-log": "^0.7.0",
+    "valaxy-theme-press": "^1.1.0"
   },
   "devDependencies": {
-    "@iconify-json/carbon": "^1.2.23",
-    "typescript": "^6.0.3"
+    "@iconify-json/carbon": "^1.2.28",
+    "typescript": "^7.0.2"
   }
 }
